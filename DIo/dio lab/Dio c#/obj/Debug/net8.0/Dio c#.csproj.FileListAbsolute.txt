@@ -1,0 +1,14 @@
+C:\Users\vmadp\Desktop\program github\DIo\dio lab\Dio c#\bin\Debug\net8.0\Dio c#.exe
+C:\Users\vmadp\Desktop\program github\DIo\dio lab\Dio c#\bin\Debug\net8.0\Dio c#.deps.json
+C:\Users\vmadp\Desktop\program github\DIo\dio lab\Dio c#\bin\Debug\net8.0\Dio c#.runtimeconfig.json
+C:\Users\vmadp\Desktop\program github\DIo\dio lab\Dio c#\bin\Debug\net8.0\Dio c#.dll
+C:\Users\vmadp\Desktop\program github\DIo\dio lab\Dio c#\bin\Debug\net8.0\Dio c#.pdb
+C:\Users\vmadp\Desktop\program github\DIo\dio lab\Dio c#\obj\Debug\net8.0\Dio c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vmadp\Desktop\program github\DIo\dio lab\Dio c#\obj\Debug\net8.0\Dio c#.AssemblyInfoInputs.cache
+C:\Users\vmadp\Desktop\program github\DIo\dio lab\Dio c#\obj\Debug\net8.0\Dio c#.AssemblyInfo.cs
+C:\Users\vmadp\Desktop\program github\DIo\dio lab\Dio c#\obj\Debug\net8.0\Dio c#.csproj.CoreCompileInputs.cache
+C:\Users\vmadp\Desktop\program github\DIo\dio lab\Dio c#\obj\Debug\net8.0\Dio c#.dll
+C:\Users\vmadp\Desktop\program github\DIo\dio lab\Dio c#\obj\Debug\net8.0\refint\Dio c#.dll
+C:\Users\vmadp\Desktop\program github\DIo\dio lab\Dio c#\obj\Debug\net8.0\Dio c#.pdb
+C:\Users\vmadp\Desktop\program github\DIo\dio lab\Dio c#\obj\Debug\net8.0\Dio c#.genruntimeconfig.cache
+C:\Users\vmadp\Desktop\program github\DIo\dio lab\Dio c#\obj\Debug\net8.0\ref\Dio c#.dll
